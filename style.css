@@ -1,0 +1,83 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#headertxt{
+	margin-top: 1px;
+  background-color: #FDA7DF;
+	text-align: center;
+	color: Black;
+	font-size: 50px;
+	font-family: arial Black;
+
+
+
+}
+
+#big_wrapper {
+
+	height: 500px;
+
+	border-radius: 20px;
+	background-image: url("https://i0.wp.com/www.arabamerica.com/wp-content/uploads/2018/06/food-2.jpg?w=800&ssl=1&fbclid=IwAR1FKvdZuPY1BFiWZRJSuLn7WwYcVVUJJedZ_PGR3Kpzp1HXj-_Y4M9DVY4");
+
+	background-repeat: no-repeat;
+
+	background-size: 900px 500px;
+	background-color: #ffb8b8;
+
+
+
+}
+#text1{
+	background-color: #ffb8b8;
+	height: 450px;
+	padding: 15px;
+
+
+}
+.text_para{
+	color: #341f97;
+	font-size: 20px;
+	font-family: Arial Black;
+	padding: 10px;
+
+}
+
+.svg_icon{
+	float: left;
+	display: inline-block;
+
+
+
+}
+#contact{
+	padding-left: 150px;
+	display: inline-block;
+	font-size: 14px;
+	text-align: center;
+}
+#tider{
+  
+	font-size: 20px;
+	float: right;
+	display: inline-block;
+
+}
+#thanx{
+
+  margin-left:20px;
+}
+
+#footer{
+	border: solid 3px Black;
+	background-color: #FDA7DF;
+	height: 120px;
+	padding: 8px;
+	font-size: 30px;
+	font color: #0652DD;
+	font-family: Arial Black;
+	text-align: center;
+
+}
